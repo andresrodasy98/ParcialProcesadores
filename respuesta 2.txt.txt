@@ -1,0 +1,11 @@
+1.Buscar la instrucción en la memoria principal.
+EL CPU PASA LA INSTRUCCION UNA VEZ BUSCADA
+
+2.Decodificar la instrucción
+El decodificador interpreta e implementa la instrucción
+
+3. Ejecutar la instrucción
+los datos que forman la instrucción son decodificados por la unidad de control
+
+4.Almacenar o guardar resultados
+El resultado es almacenado en la memoria principal

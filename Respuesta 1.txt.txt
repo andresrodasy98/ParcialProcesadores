@@ -1,0 +1,2 @@
+Un microcontrolador es es un dispositico pequeño como un chip, que ejecuta las ordenes mandadas o guardadas ahi
+ 

@@ -1,0 +1,1 @@
+Muestra cuales direcciones de memoria estan actualmente en uso y el tipo de memoria presente
